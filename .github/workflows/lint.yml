@@ -19,4 +19,4 @@ jobs:
 
     - name: Execute
       run: |
-        ls -la .
+        who
